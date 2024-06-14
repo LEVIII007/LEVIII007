@@ -1,7 +1,7 @@
 
 <div>
 
-## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Shashank Tyagi
+## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Shashank Tyagi
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 
@@ -36,7 +36,7 @@ A **passionate software engineer & AI Engineer** with expertise in **Data Struct
 </p>
 
 
-[![GitHub LEVIII007](https://img.shields.io/github/followers/om-ashish-soni?label=follow&style=social)](https://github.com/LEVIII007)
+[![GitHub LEVIII007](https://img.shields.io/github/followers/LEVIII007?label=follow&style=social)](https://github.com/LEVIII007)
 <!-- 
 [![Linkedin: om-ashish-soni (Top Algorithm Voice) ](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
 [![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
