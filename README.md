@@ -86,8 +86,8 @@ var Shashank_Tyagi = {
 
 - Competitive Coding
 - Machine Learning, Deep Learning
-- Programming Languages: Python, C++, Javascript
-- ML: Pytorch, sklearn, pandas, 
-- Web & Software Development: Django,
+- Programming Languages: Python, C++, JavaScript
+- AI-ML: Pytorch, sklearn, pandas, Langhchain, Llama-index
+- Web & Software Development: Django, Flask
 - Tools: Docker, Google Colab, Git, GitHub, Postman, Hugging Face Transformers, Streamlit, Gradio,
-- Database: MongoDB, MySQL
+- Database: MongoDB, MySQL, AstraDB
