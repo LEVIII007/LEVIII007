@@ -15,7 +15,7 @@ A **passionate software engineer & AI Engineer** with expertise in **Data Struct
 
 <p>
 
-  B.Tech. CE 2022-2026 <a href="https://iiitn.ac.in/">Indian Institute of Information Technology, Nagpur</a>
+  B.Tech. CSE 2022-2026 <a href="https://iiitn.ac.in/">Indian Institute of Information Technology, Nagpur</a>
    <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" width="20">
 </p>
 
@@ -37,11 +37,6 @@ A **passionate software engineer & AI Engineer** with expertise in **Data Struct
 
 
 [![GitHub LEVIII007](https://img.shields.io/github/followers/LEVIII007?label=follow&style=social)](https://github.com/LEVIII007)
-<!-- 
-[![Linkedin: om-ashish-soni (Top Algorithm Voice) ](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
-[![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
-[![YouTube](https://img.shields.io/badge/-Om%20Ashish%20Soni-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q) 
--->
 
 
 ### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"> A little more about me...  
@@ -51,11 +46,13 @@ A **passionate software engineer & AI Engineer** with expertise in **Data Struct
 ```javascript
 var Shashank_Tyagi = {
   pronouns: "he" | "him",
-  code: [ Python, C++, Javascript ],
+  code: [ Python, C++, Javascript, Typescript ],
+  Web Development : [ MERN Stack, Django ]
   tools: [ Google Cloud GCP, Docker, Git, GitHub, PostMan, Google Colab, VS Code, IntelliJ,],
-  frameworks: [ Django, Streamlit, Hugging Face Transformers, Pytorch ],
+  libraries: [ Flask, FastAPI, Streamlit, Hugging Face Transformers, Pytorch, TensorFlow ],
+  Databases : [ MongoDB, Postgres, SQL, vector databases like faiss, chromaDB ] 
   experience: {
-    research : "NLP Research Internship @IIIT Nagpur"
+    research: "NLP Research Internship @IIIT Nagpur about Fake News Detection using deep learning."
   },
   competitiveProgrammingSkills: {
     CodeForces: "Pupil (1330)",
@@ -63,8 +60,8 @@ var Shashank_Tyagi = {
     LeetCode: "Knight (1991)"
   },
   about: "I am a computer science undergrad who is passionate about learning and solving problems.\n
-          I have worked on various Django projects, and have experience in Machine Learning and Deep Learning.\n
-          Currently, I am learning backend development and creating some exciting project by integrating ML models with my websites."
+          I have worked on various Django and Python projects, and have experience in Machine Learning and Deep Learning.\n
+          Currently, I am learning backend development and creating some exciting projects by integrating AI."
 }
 
 
