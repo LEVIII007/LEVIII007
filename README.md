@@ -47,10 +47,10 @@ A **passionate software engineer & AI Engineer** with expertise in **Data Struct
 var Shashank_Tyagi = {
   pronouns: "he" | "him",
   code: [ Python, C++, Javascript, Typescript ],
-  Web Development : [ MERN Stack, Django ]
+  Web Development : [ MERN Stack, Django, Next.js ]
   tools: [ Google Cloud GCP, Docker, Git, GitHub, PostMan, Google Colab, VS Code, IntelliJ,],
-  libraries: [ Flask, FastAPI, Streamlit, Hugging Face Transformers, Pytorch, TensorFlow ],
-  Databases : [ MongoDB, Postgres, SQL, vector databases like faiss, chromaDB ] 
+  libraries: [ Flask, FastAPI, Streamlit, Hugging Face Transformers, Pytorch, TensorFlow, Langchain],
+  Databases : [ MongoDB, PostgreSQL, vector databases like faiss, chromaDB ] 
   experience: {
     research: "NLP Research Internship @IIIT Nagpur about Fake News Detection using deep learning."
   },
@@ -59,9 +59,10 @@ var Shashank_Tyagi = {
     Codechef: "3 ⭐ (1775)",
     LeetCode: "Knight (1991)"
   },
-  about: "I am a computer science undergrad who is passionate about learning and solving problems.\n
-          I have worked on various Django and Python projects, and have experience in Machine Learning and Deep Learning.\n
-          Currently, I am learning backend development and creating some exciting projects by integrating AI."
+  about: "I'm a computer science undergrad passionate about problem-solving and exploring technology.\n
+          I focus on machine learning and AI, and I've worked on various web development and AI projects.\n
+          I'm currently diving into backend development and integrating AI into exciting new projects.
+"
 }
 
 
