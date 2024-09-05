@@ -71,7 +71,7 @@ var Shashank_Tyagi = {
 
 ## DSA/CP
 
-- Codeforces: Expert (1330 max rating)
+- Codeforces: Pupil (1330 max rating)
 - Codechef: 3-star coder (1775 max rating)
 - Leetcode: Knight (1991 max rating, top 2.5%)
 
@@ -86,6 +86,7 @@ var Shashank_Tyagi = {
 - Machine Learning, Deep Learning
 - Programming Languages: Python, C++, JavaScript
 - AI-ML: Pytorch, sklearn, pandas, Langhchain, Llama-index
-- Web & Software Development: Django, Flask
+- Web & Software Development: Django, Flask. FastAPI
 - Tools: Docker, Google Colab, Git, GitHub, Postman, Hugging Face Transformers, Streamlit, Gradio,
-- Database: MongoDB, MySQL, AstraDB
+- Database: MongoDB, MySQL, AstraDB, PostgreSQL, Supabase
+- ORM : Drizzle, Prisma
