@@ -21,8 +21,7 @@ A **passionate software engineer & AI Engineer** with expertise in **Data Struct
 
 </h4>
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{LEVIII007}/count.svg" alt="LEVIII007 :: Visitor's Count" /></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{LEVIII007}/count.svg" alt="LEVIII007 :: Visitor's Count - 500" /></p> -->
 
 <br/>
 
