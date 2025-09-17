@@ -32,7 +32,6 @@ I am an engineer, building scalable backend systems and exploring ai/ml.
 
 ```javascript
 const Shashank_Tyagi = {
-  pronouns: "he" | "him",
   code: ["Python", "go", "JavaScript", "TypeScript"],
   web: ["MERN Stack", "Next.js", "Django", "FastAPI", "Flask"],
   ai_ml: ["PyTorch", "LangChain", "LlamaIndex", "langgraph"],
@@ -46,7 +45,8 @@ const Shashank_Tyagi = {
 
 ### 📊 Skills & Interests
 
-* complex AI agent workflows ( I read about these a lot )
+* AI agents ( I read about these a lot )
+* Solana ( i work in this ecosystem rn )
 * System Design (real-time pipelines, distributed infra, low-latency data processing)
 
 ---
